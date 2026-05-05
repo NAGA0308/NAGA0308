@@ -1,6 +1,7 @@
 NAGARAJ S
 
 Embedded Firmware Engineer | ARM Cortex-M, bare-metal, low-level drivers.
+
 I'm an Embedded firmware engineer focused on building systems using bare-metal development.
 I enjoy working close to the hardware—understanding registers, memory, and peripherals.
 
