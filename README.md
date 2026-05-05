@@ -1,4 +1,5 @@
-## Hi there 👋
+NAGARAJ S
+Embedded Firmware Engineer | ARM Cortex-M, bare-metal, low-level drivers
 
 <!--
 **NAGA0308/NAGA0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
